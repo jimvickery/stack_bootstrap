@@ -24,3 +24,4 @@ Things you may want to cover:
 * Found on page https://medium.com/@railsthemes/from-rails-5-to-bootstrap-4-responsive-admin-dashboard-template-1de103c6216c
 
 * ...
+# stack_bootstrap
